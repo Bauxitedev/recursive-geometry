@@ -11,8 +11,7 @@ Here's what it looks like starting with a triangle and a hexagon:
 
 [![](examples/triangle.gif)](examples/triangle.gif) [![](examples/hexagon.gif)](examples/hexagon.gif)
 
-
-I'll upload a video soon.
+[Here's a video of it in action.](https://www.youtube.com/watch?v=bhWzMR56joc)
 
 ### Controls
 
