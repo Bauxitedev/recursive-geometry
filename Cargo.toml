@@ -1,0 +1,11 @@
+[package]
+name = "recursive-geometry"
+version = "0.1.0"
+authors = ["bauxitedev"]
+
+[dependencies]
+cgmath = "0.15.0"
+rand = "0.3.14"
+shader_version = "0.3.0"
+time = "0.1.38"
+glium = "0.19.0"
