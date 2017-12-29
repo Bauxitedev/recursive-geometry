@@ -5,6 +5,8 @@ Run it on a big screen, use it as screen saver, do whatever you want.
 
 It's written in Rust and uses the [glium](https://github.com/glium/glium) library for drawing to the screen.
 
+Right now the subdivision process is a little slow, I tried parallelizing it to no avail. See [this function](https://github.com/Bauxitedev/recursive-geometry/blob/master/src/main_state/mod.rs#L195), let me know if you have ideas on how to speed it up.
+
 ### Demonstration
 
 Here's what it looks like starting with a triangle and a hexagon:
