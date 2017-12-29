@@ -23,8 +23,12 @@ Space        | Generate new geometry based on the current one
 2            | Generate a square consisting of two triangles
 3-9          | Generate a regular polygon with the given amount of edges, in the form of a triangle fan
 
-### Installation
+### Running
 
-To run it,  [install rustup](https://www.rustup.rs/), then clone the repository and run `cargo run --release` in the `recursive-geometry` folder.
+[Download it here](https://github.com/Bauxitedev/recursive-geometry/releases). Windows & Linux only for now, but you can build it yourself to run it on macOS, see below.
 
 It requires a modern GPU supporting at least OpenGL 3.1.
+
+### Compilation
+
+To build it yourself,  [install rustup](https://www.rustup.rs/), then clone the repository and run `cargo run --release` in the `recursive-geometry` folder.
